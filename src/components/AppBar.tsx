@@ -1,10 +1,11 @@
-import React from "react";
+// @ts-ignore
+import React from 'react';
 import {AppBar, AppBarSection, AppBarSpacer, Avatar} from "@progress/kendo-react-layout";
 import {Button} from "@progress/kendo-react-buttons";
 import {bellIcon, menuIcon} from "@progress/kendo-svg-icons";
 import {Badge, BadgeContainer} from "@progress/kendo-react-indicators";
 
-let kendokaAvatar =
+const kendokaAvatar =
     "https://www.telerik.com/kendo-react-ui-develop/components/images/kendoka-react.png";
 
 
