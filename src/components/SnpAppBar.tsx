@@ -41,6 +41,14 @@ const SnpAppBar = () => {
 
                 <AppBarSpacer/>
 
+                <AppBarSection>
+                    A pesquisa ficaria aqui
+                </AppBarSection
+
+                <AppBarSpacer/>
+
+
+
                 <AppBarSection className="actions">
                     <Button type="button" fillMode="flat" svgIcon={bellIcon}>
                         <BadgeContainer>
